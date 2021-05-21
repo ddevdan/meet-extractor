@@ -1,4 +1,5 @@
 <img src="docs/assets/icon.png" width="200">
+
 # Google Meet Data Extractor
 
 Simply attendance and messages extractor for Google Meet
