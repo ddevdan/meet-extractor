@@ -1,4 +1,4 @@
-<img src="assets/icon.png" width="200">
+<img src="assets/images/icon.png" width="200">
 
 # Google Meet Data Extractor
 
