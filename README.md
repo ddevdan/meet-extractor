@@ -2,7 +2,7 @@
 
 # Google Meet Data Extractor
 
-Simple attendance and messages extractor for Google Meet
+A simple attendance and messages extractor for Google Meet
 
 ## **DEV Notes**
 
