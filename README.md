@@ -19,7 +19,7 @@ Simply attendance and messages extractor for Google Meet
 
 - `git clone https://github.com/ddevdan/meet-extractor`
 - `bundle`
-- `save current your current reunion page`
+- `save current your current meeting page`
     - `rigth click>save page...`
     - `rename it to 'meet.html'`
     - `copy it to projects' root directory`
