@@ -1,7 +1,8 @@
-<img src="docs/assets/icon.png" width="200">
+<img src="assets/images/icon.png" width="150">
+
 # Google Meet Data Extractor
 
-Simply attendance and messages extractor for Google Meet
+Simple attendance and messages extractor for Google Meet
 
 ## **DEV Notes**
 
@@ -18,8 +19,8 @@ Simply attendance and messages extractor for Google Meet
 
 - `git clone https://github.com/ddevdan/meet-extractor`
 - `bundle`
-- `save current your current reunion page`
+- `save your current meeting page`
     - `rigth click>save page...`
-    - `rename it to **'meet.html'**`
+    - `rename it to 'meet.html'`
     - `copy it to projects' root directory`
 - `ruby index.rb`
