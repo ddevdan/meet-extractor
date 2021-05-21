@@ -12,6 +12,8 @@ doc.css('span.ZjFb7c').each do |name|
     names << name.content
 end
 
+puts names
+
 messages = []
 # get message's div by its class
 doc.css('div.GDhqjd').each do |msg|
@@ -21,5 +23,5 @@ doc.css('div.GDhqjd').each do |msg|
     messages << [name, time, msg_text]
 end
 
+puts messages
 # generate json from messages' array 
-messages = messages.map{|msg| {name: msg[0], time: msg[1], msg_text: msg[2]} }
